@@ -1,1 +1,2 @@
 print("decline")
+print("incline")
